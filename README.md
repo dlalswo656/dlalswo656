@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/{뱃지이름}-{뱃지색깔}?style={뱃지스타일}&logo={로고이름}&logoColor={로고색깔}"/>
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m.j_2ee/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m.j_2ee/)
 
 [![Velog Badge](https://img.shields.io/badge/Velog-%2312100E.svg?style=flat&logo=velog&logoColor=white)](https://velog.io/@dlalswo656)
 
