@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.instagram.com/hongssup/“><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hongssup"/></a>#E4405F
+<img src="https://img.shields.io/badge/{뱃지이름}-{뱃지색깔}?style={뱃지스타일}&logo={로고이름}&logoColor={로고색깔}"/>
+<img src="https://img.shields.io/badge/instagram-#E4405F?style=flat-square&logo=instagram-&logoColor=white"/>
+
 
