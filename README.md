@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-framework : [![Spring Badge](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)](https://spring.io)
-
-[![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot/)
+framework : [![Spring Badge](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)](https://spring.io) [![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot/)
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m.j_2ee/)
 
