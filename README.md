@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 framework : [![Spring Badge](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)](https://spring.io) [![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot/)
 
+database : [![MySQL Badge](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/)
+
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m.j_2ee) [![Velog Badge](https://img.shields.io/badge/Velog-%2312100E.svg?style=flat&logo=velog&logoColor=white)](https://velog.io/@dlalswo656)
 
 
