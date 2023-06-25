@@ -30,8 +30,3 @@ Profil : [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?st
 
 
 
-
-
-
-
-
