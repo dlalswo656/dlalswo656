@@ -28,5 +28,3 @@ Libraries : [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-%23563D7C
 
 Profil : [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m.j_2ee) [![Velog Badge](https://img.shields.io/badge/Velog-%2312100E.svg?style=flat&logo=velog&logoColor=white)](https://velog.io/@dlalswo656)
 
-
-
