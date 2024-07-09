@@ -29,4 +29,4 @@ Libraries : [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-%23563D7C
 
 Profil : [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m.j_2ee) [![Velog Badge](https://img.shields.io/badge/Velog-%2312100E.svg?style=flat&logo=velog&logoColor=white)](https://velog.io/@dlalswo656)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlalswo656)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlalswo656)](https://github.com/anuraghazra/github-readme-stats)
