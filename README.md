@@ -28,3 +28,5 @@ Server : [![Apache Tomcat Badge](https://img.shields.io/badge/Apache_Tomcat-%23F
 Libraries : [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![JPA Badge](https://img.shields.io/badge/JPA-%235B69D3.svg?style=flat&logo=jpa&logoColor=white)](https://jakarta.ee/specifications/persistence/) [![jQuery Badge](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)
 
 Profil : [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m.j_2ee) [![Velog Badge](https://img.shields.io/badge/Velog-%2312100E.svg?style=flat&logo=velog&logoColor=white)](https://velog.io/@dlalswo656)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlalswo656)](https://github.com/anuraghazra/github-readme-stats)
