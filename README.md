@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 [![MySQL Badge](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/) ![js](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mysql&logoColor=white)
 
-[![Apache Tomcat Badge](https://img.shields.io/badge/Apache_Tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black)](https://tomcat.apache.org/)
+[![Apache Tomcat Badge](https://img.shields.io/badge/Apache_Tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black)](https://tomcat.apache.org/) ![js](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![JPA Badge](https://img.shields.io/badge/JPA-%235B69D3.svg?style=flat&logo=jpa&logoColor=white)](https://jakarta.ee/specifications/persistence/) [![jQuery Badge](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)
 
