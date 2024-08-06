@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 [![Apache Tomcat Badge](https://img.shields.io/badge/Apache_Tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black)](https://tomcat.apache.org/) ![js](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![JPA Badge](https://img.shields.io/badge/JPA-%235B69D3.svg?style=flat&logo=jpa&logoColor=white)](https://jakarta.ee/specifications/persistence/) [![jQuery Badge](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)
+[![JPA Badge](https://img.shields.io/badge/JPA-%235B69D3.svg?style=flat&logo=jpa&logoColor=white)](https://jakarta.ee/specifications/persistence/) [![jQuery Badge](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m.j_2ee) [![Velog Badge](https://img.shields.io/badge/Velog-%2312100E.svg?style=flat&logo=velog&logoColor=white)](https://velog.io/@dlalswo656)
 
