@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 [![Apache Tomcat Badge](https://img.shields.io/badge/Apache_Tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black)](https://tomcat.apache.org/) ![js](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m.j_2ee) [![Velog Badge](https://img.shields.io/badge/Velog-%2312100E.svg?style=flat&logo=velog&logoColor=white)](https://velog.io/@dlalswo656)
-[![YouTuBe Badge](https://img.shields.io/badge/YouTuBe-%23E4405F?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/@%EC%95%84%EB%AA%B0%EB%9E%91%ED%8B%B0)
+[![YouTuBe Badge](https://img.shields.io/badge/YouTuBe-%FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@%EC%95%84%EB%AA%B0%EB%9E%91%ED%8B%B0)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlalswo656)](https://github.com/anuraghazra/github-readme-stats)
